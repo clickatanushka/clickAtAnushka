@@ -51,7 +51,7 @@ Nothing fancy — just progress, one commit at a time.
 
 ## 🔗 Let’s Connect
 
-<a href=["https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/anushka-joshi-8955aa28a/)" target="_blank">
+<a href=["https://www.linkedin.com/in/(https://www.linkedin.com/in/anushka-joshi-8955aa28a/)/]" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="80" />
 </a>
 
