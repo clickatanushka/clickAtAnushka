@@ -1,20 +1,69 @@
-Hi, I’m Anushka 👋
-I’m a Computer Science undergraduate who’s still figuring things out and learning by building.
+<div align="center">
 
-I enjoy understanding how things work under the hood, especially around Linux, operating systems, and low-level programming, but I also explore other areas like data analysis and machine learning when something feels interesting or useful.
+# 🌼 Hi, I’m Anushka 👋  
 
-This GitHub is mostly a learning space:
-experiments
-coursework
-side projects
-things I break and then fix
+✨ curious • learning • building • improving ✨
 
-Some repositories are polished, many are not — and that’s intentional. I care more about learning deeply than making everything look perfect.
+</div>
 
-Right now, I’m focusing on:
-getting better at problem-solving and DSA
-becoming comfortable with Linux and system-level concepts
-building small projects that teach me something new
-I’m open to learning, feedback, and growing over time.
+---
 
-Thanks for stopping by 🌱
+### 👩‍💻 A little about me
+
+I’m a **Computer Science undergraduate** who likes understanding *how things work* by actually writing code, breaking it, and fixing it again.
+
+Most days, you’ll find me:
+- practicing **Data Structures & Algorithms in C++**
+- using **Python** for small scripts and experiments  
+- working inside a **Linux (Arch Linux)** environment  
+- pushing code to GitHub and slowly getting better at it  
+
+I don’t know everything — but I enjoy learning something new every day.
+
+---
+
+### 🧠 What I’m learning right now
+
+- 📌 Problem-solving and DSA (C++)
+- 📌 Writing cleaner and more readable code
+- 📌 Basic web development concepts
+- 📌 Using tools that make development easier
+
+---
+
+### 🛠️ Tools I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,html,css" />
+</p>
+
+---
+
+### 🌱 My mindset
+
+- learning over perfection  
+- curiosity over fear  
+- consistency over motivation  
+- **always open to positive criticism and feedback**
+
+---
+
+### 🚀 What you’ll find here
+
+Small projects, practice code, experiments, and things I built while learning.  
+Nothing fancy — just progress, one commit at a time.
+
+---
+
+### 📫 Let’s connect
+
+- 💼 LinkedIn: *add your link here*  
+- 📧 Email: *add your email here*
+
+---
+
+<div align="center">
+
+✨ still learning. still building. still curious. ✨
+
+</div>
