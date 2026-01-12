@@ -29,9 +29,9 @@ I value consistency over perfection and I’m
 **always open to positive criticism and feedback.**
 
 ---
-## 🛠️ Tools & Technologies I Work With
+<h3 align="center"> 🛠️ Tools & Technologies I Work With</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
