@@ -29,7 +29,7 @@ I value consistency over perfection and I’m
 **always open to positive criticism and feedback.**
 
 ---
-
+<div align="center">
 ## 🛠️ Tools & Technologies I Work With
 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
@@ -41,7 +41,7 @@ I value consistency over perfection and I’m
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=white)
-
+</div>
 
 ---
 
