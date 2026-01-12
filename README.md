@@ -1,8 +1,12 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-0a6a90f1-1d88-4f4d-8a32-ec87b2a60a4e.gif" width="300"/>
+</div>
 
-<h1 style="font-size: 3.2em;">🌼 Hi, I’m Anushka!</h1>
+<div align="center">
 
-<p style="font-size: 1.2em;">
+<h1 style="font-size: 3.5em;">🌼 Hi, I’m Anushka!</h1>
+
+<p style="font-size: 1.25em;">
 curious • learning • building • improving
 </p>
 
@@ -14,14 +18,14 @@ curious • learning • building • improving
 
 I’m a **Computer Science undergraduate** who enjoys learning by building things, breaking them, and figuring out how to make them better.
 
-Currently:
+Most days, I’m:
 - practicing **Data Structures & Algorithms in C++**
 - writing small scripts and projects in **Python**
 - working in a **Linux (Arch Linux)** environment  
-- exploring tools that help turn data and ideas into insights  
+- exploring tools that help turn data into insights  
 
-I don’t aim for perfection — I aim for progress.  
-**Always open to positive criticism and feedback.**
+I value consistency over perfection and I’m  
+**always open to positive criticism and feedback.**
 
 ---
 
@@ -37,12 +41,9 @@ I don’t aim for perfection — I aim for progress.
 
 ### 🚀 What You’ll Find Here
 
-This GitHub is a collection of:
-- learning projects  
-- practice code  
-- experiments while understanding core CS concepts  
+This GitHub is a collection of learning projects, practice code, and experiments as I strengthen my fundamentals in computer science.
 
-Nothing flashy — just consistent learning, one step at a time.
+Nothing fancy — just progress, one commit at a time.
 
 ---
 
@@ -50,13 +51,13 @@ Nothing flashy — just consistent learning, one step at a time.
 
 ## 🔗 Let’s Connect
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="70" />
+<a href=["https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/](https://www.linkedin.com/in/anushka-joshi-8955aa28a/)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="80" />
 </a>
 
 <br><br>
 
-📧 *anushka14josi@gmail.com*
+📧 anushka14joshi@gmail.com
 
 </div>
 
