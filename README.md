@@ -30,17 +30,14 @@ I value consistency over perfection and I’m
 
 ---
 
-<div align="center">
-
 ## 🛠️ Tools & Technologies I Work With
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github" />
 
-<img src="https://skillicons.dev/icons?i=cpp,python,linux,git,github,html,css,tableau,powerbi,googleanalytics" />
+<br>
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,tableau,powerbi,googleanalytics" />
 
-</div>
 ---
 
 ### 🚀 What You’ll Find Here
