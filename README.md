@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="120"/>
 </div>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 curious • learning • building • improving
 </p>
 
-</div>
+
 
 ---
 
@@ -68,7 +68,7 @@ Nothing fancy — just progress, one commit at a time.
 ## 🔗 Let’s Connect
 
 <a href="https://www.linkedin.com/in/anushka-joshi-8955aa28a/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="80" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
 </a>
 
 <br><br>
