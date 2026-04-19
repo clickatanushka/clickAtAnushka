@@ -52,13 +52,7 @@ I value consistency over perfection and I’m
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🔗 Let’s Connect
 
-<a href="https://www.linkedin.com/in/anushka-joshi-8955aa28a/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/>
-</a>
-
-<br><br>
 
 📧 anushka14joshi@gmail.com
 
