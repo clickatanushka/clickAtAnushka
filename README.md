@@ -140,35 +140,7 @@ Adaptive intrusion detection systems across IoT, Edge, Fog, and Cloud environmen
 
 </div>
 
----
 
-## 📚 Currently Learning
-
-<div align="center">
-
-`Data Structures & Algorithms` `Data Engineering` `Distributed Systems` `AI Engineering` `Retrieval-Augmented Generation` `System Design` `Cloud Architecture` `Machine Learning`
-
-</div>
-
----
-
-## 🌱 My Approach
-
-<div align="center">
-
-```
-Build something.
-      ↓
-   Break it.
-      ↓
-Understand why.
-      ↓
- Make it better.
-```
-
-**I believe the best way to learn technology is to build real systems and understand what happens underneath the abstractions.**
-
-</div>
 
 ---
 
